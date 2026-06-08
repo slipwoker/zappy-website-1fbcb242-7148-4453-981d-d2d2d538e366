@@ -7,65 +7,65 @@
 ## Pages
 
 ### בית
-https://-1fbcb242.zappy5.app
+https://example.com
 גלו קולקציית חולצות וכובעים ייחודית שנרקמה בידי תושבי כפר עזה. כל פריט נושא סיפור של תקומה וחוסן קהילתי. הצטרפו למעגל התמיכה ולבשו גאווה מקומית.
 
 ### סיפור היוצר
-https://-1fbcb242.zappy5.app/makers-story
+https://example.com/makers-story
 מאחורי כל תפר מסתתר סיפור אנושי מרגש. היכנסו אל סיפור היוצרים מעוטף עזה, נשות ואנשי כפר עזה שממשיכים ליצור מתוך חוסן, אהבה ותקווה. גלו את הפנים שמאחורי החולצות והכובעים.
 
 ### השפעה
-https://-1fbcb242.zappy5.app/impact
+https://example.com/impact
 כל רכישה שלכם מייצרת שינוי אמיתי. כך חולצות וכובעים מעוטף עזה מחזקים כלכלית את תושבי כפר עזה, משמרים מסורת מקומית ובונים עתיד של תקווה. בואו לראות את ההשפעה ולקחת חלק בסיפור.
 
 ### צור קשר
-https://-1fbcb242.zappy5.app/contact
+https://example.com/contact
 יש לכם שאלה על החולצות והכובעים מכפר עזה? רוצים לשתף סיפור או להזמין בכמות גדולה? כתבו לנו ונחזור אליכם במהירות. הדרך שלכם לתמוך ולהרגיש חלק מהקהילה מתחילה כאן.
 
 ### Products
-https://-1fbcb242.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - עוטפים לחיים
 
 ### Cart
-https://-1fbcb242.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-1fbcb242.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-1fbcb242.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-1fbcb242.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-1fbcb242.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-1fbcb242.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - עוטפים לחיים
 
 ### Category
-https://-1fbcb242.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - עוטפים לחיים
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-1fbcb242.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-1fbcb242.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-1fbcb242.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -99,8 +99,8 @@ E-commerce / Fashion & Apparel
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-1fbcb242.zappy5.app/sitemap.xml
-- Robots: https://-1fbcb242.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-1fbcb242.zappy5.app/llms-full.txt
-- Products (JSON): https://-1fbcb242.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-1fbcb242.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
