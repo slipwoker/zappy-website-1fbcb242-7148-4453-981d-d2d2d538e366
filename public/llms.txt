@@ -1,0 +1,106 @@
+# עוטפים לחיים — Generative Engine Optimization Map
+
+> An e-commerce store selling hats and shirts handcrafted by people from the Gaza Envelope area, specifically from Kfar Aza. The store carries a strong community and solidarity spirit, showcasing locally made products that support the residents of the Gaza Envelope region. The brand has a meaningful social and emotional narrative tied to resilience and community support.
+
+---
+
+## Pages
+
+### בית
+https://-1fbcb242.zappy5.app
+גלו קולקציית חולצות וכובעים ייחודית שנרקמה בידי תושבי כפר עזה. כל פריט נושא סיפור של תקומה וחוסן קהילתי. הצטרפו למעגל התמיכה ולבשו גאווה מקומית.
+
+### סיפור היוצר
+https://-1fbcb242.zappy5.app/makers-story
+מאחורי כל תפר מסתתר סיפור אנושי מרגש. היכנסו אל סיפור היוצרים מעוטף עזה, נשות ואנשי כפר עזה שממשיכים ליצור מתוך חוסן, אהבה ותקווה. גלו את הפנים שמאחורי החולצות והכובעים.
+
+### השפעה
+https://-1fbcb242.zappy5.app/impact
+כל רכישה שלכם מייצרת שינוי אמיתי. כך חולצות וכובעים מעוטף עזה מחזקים כלכלית את תושבי כפר עזה, משמרים מסורת מקומית ובונים עתיד של תקווה. בואו לראות את ההשפעה ולקחת חלק בסיפור.
+
+### צור קשר
+https://-1fbcb242.zappy5.app/contact
+יש לכם שאלה על החולצות והכובעים מכפר עזה? רוצים לשתף סיפור או להזמין בכמות גדולה? כתבו לנו ונחזור אליכם במהירות. הדרך שלכם לתמוך ולהרגיש חלק מהקהילה מתחילה כאן.
+
+### Products
+https://-1fbcb242.zappy5.app/products
+המוצרים שלנו - עוטפים לחיים
+
+### Cart
+https://-1fbcb242.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-1fbcb242.zappy5.app/checkout
+תשלום
+
+### Login
+https://-1fbcb242.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-1fbcb242.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-1fbcb242.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-1fbcb242.zappy5.app/product/:slug
+פרטי המוצר - עוטפים לחיים
+
+### Category
+https://-1fbcb242.zappy5.app/category/:slug
+מוצרים - עוטפים לחיים
+
+## Legal & Policy
+
+### Privacy Policy
+https://-1fbcb242.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-1fbcb242.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-1fbcb242.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About עוטפים לחיים
+An e-commerce store selling hats and shirts handcrafted by people from the Gaza Envelope area, specifically from Kfar Aza. The store carries a strong community and solidarity spirit, showcasing locally made products that support the residents of the Gaza Envelope region. The brand has a meaningful social and emotional narrative tied to resilience and community support.
+
+## Services/Products
+- מכירת כובעים
+- מכירת חולצות
+- מוצרים מעוטף כפר עזה
+
+## Target Audience
+- תומכי עוטף עזה, אנשים שרוצים לתמוך בתושבי כפר עזה
+- תומכי עוטף עזה
+- תומכי אומנים מקומיים
+- צרכנים אתיים
+
+## Industry
+E-commerce / Fashion & Apparel
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-1fbcb242.zappy5.app/sitemap.xml
+- Robots: https://-1fbcb242.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-1fbcb242.zappy5.app/llms-full.txt
+- Products (JSON): https://-1fbcb242.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-1fbcb242.zappy5.app/product-feed.xml
